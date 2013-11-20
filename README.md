@@ -1,9 +1,12 @@
-# Sublime Text 2 Octopress
+# Sublime Text 3 Octopress
+
+## CREDITS
+This plugin was developed for ST2 by <a href="https://github.com/blueplanet">BluePlanet</a>. Just porting it to ST3 hereand adding some new features.
 
 ## WARNING
 
 - Only supports OS X, linux
-- You must start the `Sublime Text 2` from the terminal (or configure *octopress_cmd_before_rake* in your settings)
+- You must start the `Sublime Text 3` from the terminal (or configure *octopress_cmd_before_rake* in your settings)
 
 ## Preview
 ![image](http://d.pr/i/WUn+)
